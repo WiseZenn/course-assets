@@ -36,7 +36,7 @@
 2. exams/final/exams
    历年期末试题（如 past-final-exam-2020-A.pdf）。
 3. review
-   复习提纲与重点总结（keypoint-review.pptx、summary-key-review-questions.pdf）。
+   复习提纲与重点总结（keypoint-review.pdf、summary-key-review-questions.pdf）。
 
 ### Numerical Methods / 2023 Spring
 
@@ -52,21 +52,6 @@
    课程项目与报告（report-zw.pdf）。
 6. review
    复习提纲与重点总结（keypoint-review.pdf）。
-
-## 本次增量来源记录
-
-### Mechanics of Materials / 2023 Spring
-
-1. Mechanics of Materials/2023-spring/exams/final/exams/past-final-exam-2020-A.pdf
-   传承资料
-2. Mechanics of Materials/2023-spring/exams/final/exams/past-final-exam-2021-A.pdf
-   传承资料
-3. Mechanics of Materials/2023-spring/exams/final/exams/past-final-exam-2021-B.pdf
-   传承资料
-4. Mechanics of Materials/2023-spring/review/keypoint-review.pptx
-    传承资料
-5. Mechanics of Materials/2023-spring/review/summary-key-review-questions.pdf
-   个人整理 
 
 ## 链接与可访问性检查
 
