@@ -1,0 +1,36 @@
+
+	  MOV  CX,0H
+INPUT:MOV AH,01H
+	  INT 21H
+	  MOV BL,AL
+	  MOV BH,0H
+	  PUSH BX
+	  INC CX
+	  CMP AL, 13
+	  JNZ iNPUT
+	 
+	POP BX
+	DEC CX
+	
+	MOV AH,02H
+	MOV DL,0DH
+	INT 21H
+	MOV AH,02H
+	MOV DL,0AH
+	INT 21H
+	
+	
+AGAIN: 	
+	
+	
+	POP BX
+	MOV AH,02H
+	MOV DL,BL
+	INT 21H
+	LOOP AGAIN
+	
+	.EXIT
+
+ret
+
+
