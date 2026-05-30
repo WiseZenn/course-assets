@@ -51,6 +51,28 @@
 
 ### 2023 Spring
 
+#### Mechanics of Materials
+
+1. exams
+   历年期末试题（past-final-exam-2020-A.pdf、past-final-exam-2021-A.pdf、past-final-exam-2021-B.pdf）。
+2. review
+   复习提纲与重点总结（keypoint-review.pdf、summary-key-review-questions.pdf）。
+
+#### Numerical Methods
+
+1. book
+   课程参考书（A Concise Course on Numerical Methods.pdf）。
+2. code
+   课程代码（code.zip）。
+3. exams/final/exams
+   历年期末试题（past-final-exam-2021-A.pdf ~ past-final-exam-2025-A.pdf）。
+4. exams/final/solutions
+   历年期末答案（past-final-exam-2021-A-solution.pdf ~ past-final-exam-2025-A-solution.pdf）。
+5. project
+   课程项目报告（report-zw.pdf）。
+6. review
+   复习提纲与重点总结（keypoint-review.pdf）。
+
 #### Theoretical Mechanics
 
 1. review
